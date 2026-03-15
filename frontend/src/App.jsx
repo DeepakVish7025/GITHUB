@@ -6,7 +6,7 @@ import SearchBar from "./components/SearchBar";
 import RepoCard from "./components/RepoCard";
 import Favorites from "./components/Favorites";
 
-const API_BASE_URL = "http://localhost:3000/api";
+const API_BASE_URL = "https://github-duhi.onrender.com/api";
 
 function App() {
   const [activeTab, setActiveTab] = useState("search");
