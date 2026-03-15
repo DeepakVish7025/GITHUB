@@ -22,10 +22,6 @@ A simple **MERN stack project** that lets users **search GitHub repositories** a
 
 ### 1️⃣ Clone the repository
 
-```bash
-git clone <your-repo-url>
-cd <project-folder>
-```
 
 ---
 
@@ -40,7 +36,7 @@ node server.js
 Backend will run on:
 
 ```
-http://localhost:5000
+http://localhost:3000
 ```
 
 ---
